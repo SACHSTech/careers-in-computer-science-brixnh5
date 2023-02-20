@@ -106,11 +106,17 @@ Alternating school and co-op terms allows students to explore multiple career pa
 + Production engineering
 + Algorithms engineering
 
+## **Real Jobs**
 
-
-
-
-
+| | Entry Level | Mid Level | Senior Level |
+|-|-|-|-|
+| **Salary** | $45, 000| $75, 000 | $124, 800 |
+| **Industry Average Salary** | $50,440 | $89,440 | $124,800
+| **Position** | Programmer software engineer | Software engineer | Software engineer |
+| **Company** | Opticut Tech | Andec Mfg. Ltd. | Northern Block Inc |
+| **City** | Napanee | Toronto | Toronto
+| **Job Description**| We are seeking a Programmer Software Engineer to become an integral part of our team! You will be responsible for creating and modifying computer application software or specialized utility programs.| Responsible for writing machine control and data acquisition software as well as user interface for industrial inspection equipment. Direct communication with customers on-site, by telephone, or email| Collect and document user's requirements and develop logical and physical specifications. Research, evaluate and synthesize technical information to design, develop and test computer-based systems. Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs. Plan, design and co-ordinate the development, installation, integration and operation of computer-based systems. Assess, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software. Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems
+| **Additional Skills** | n/a| 3 years of professional experience in writing MS Visual C++, MFC and Windows API applications, good computer skills with MS Word, MS Excel, etc and a desire to travel internationally (typically U.S.A.) for short trips several times per year| 3 - 5 years of experience and specialization in system integration
 
 [University of Waterloo]: https://uwaterloo.ca/
 [Cheriton School of Computer Science]: https://cs.uwaterloo.ca/
