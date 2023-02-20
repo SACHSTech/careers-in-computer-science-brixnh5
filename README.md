@@ -70,10 +70,46 @@ Most software developer positions require at least a Bachelor's degree in comput
 + Cumulative average of 60% or higher
 + Co-op requirements met, if applicable, including PD 1, PD 11, PD 10, and a minimum of two other PD courses
 
+## **Experiential Learning**
+Experiential learning opporunities are a great way to gain unique experience in industries outside of the classroom, allowing you to apply your knowledge and learning in the real world. 
 
-Entrance requirements
-description of first year program (courses) that you would take
-the length of time to complete the degree or diploma for the course 
+Some experiential learning opportunities include:
++ Co-op programs
++ Interships
++ Shadowships/Aprenticeships
++ Undergraduate Research
++ Community service
++ Studying abroad
++ Personal projects
+
+At Waterloo, computer science students have access to a variety of co-op, studying abroad and undergraduate research opportunities. 
+
+![Alt text](coop.png)
+
+### **Co-op Program Example**
+As a co-op student at Waterloo, students will normally alternate between four months in school and four months as a full-time employee of the organization they are working for.
+
+Alternating school and co-op terms allows students to explore multiple career paths and types of employers to suit their interests, as well as applying what they have learned in school
+
+### **Getting hired**
++ Review job postings from employers Waterloo has recruited and choose which ones students want to apply to.
++ Employers select students to interview, based on résumés, work experience, and perhaps academic record.
++ If you're selected for an interview, you'll meet with the employer in person or online.
++ After the interview, you rank the employers and they rank interviewees based on preference.
+
+### **Sample Co-op Job Titles**
++ Tools and automation engineering intern
++ Data scientist
++ Mobile developer
++ Software developer
++ iOS developer
++ Production engineering
++ Algorithms engineering
+
+
+
+
+
 
 
 [University of Waterloo]: https://uwaterloo.ca/
