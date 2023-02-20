@@ -24,7 +24,10 @@ Software developers design, write, and test code for new systems and software to
 + Communication and leadership skills
 + Analytical and critical thinking skills
 
+## **Education**
+Most software developer positions require at least a Bachelor's degree in computer science, software development or similar, but there are other routes to becoming a software developer through demonstrating enthusiasm and the capacity to learn new skills. Employers are sometimes willing to train younger employees.
 
+### **Example University program**
 
 
 
