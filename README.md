@@ -14,6 +14,18 @@ Software developers design, write, and test code for new systems and software to
 + Develop, implement, modify and maintain gameplay features that integrate effectively into existing software
 + Write documentation for new and updated software.
 
+### **Required Skills (technical and non-technical)**
++ Mathematical aptitude
++ Problem-solving skills
++ Programming languages (different types of developer roles require different languages)
++ Organisational and time management skills
++ Accuracy and attention to detail
++ Understanding of the latest trends and their role in a commercial environment
++ Communication and leadership skills
++ Analytical and critical thinking skills
+
+
+
 
 
 
