@@ -1,2 +1,12 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10211494&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+# **Careers in Computer Science | Software Developer** 
+![Alt text](software%20engineer.jpg)
+#### *Brian Huang*
+
+## **What is a software developer?**
+Software developers design, write, and test code for new systems and software to ensure efficiency. They create the foundations for operative systems and run diagnostic programs to certify effectiveness. They are employed in computer software, computer and video game development firms, information technology consulting firms, and in information technology units throughout both private and public sectors.
+
+
+
+
+
+
