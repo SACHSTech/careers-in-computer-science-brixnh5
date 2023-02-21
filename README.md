@@ -74,7 +74,7 @@ Most software developer positions require at least a Bachelor's degree in comput
 + Co-op requirements met, if applicable, including PD 1, PD 11, PD 10, and a minimum of two other PD courses
 
 ## **Experiential Learning**
-Experiential learning opporunities are a great way to gain unique experience in industries outside of the classroom, allowing you to apply your knowledge and learning in the real world. 
+Experiential learning opporunities are a great way to gain unique, hands-on experience in industries outside of the classroom, allowing students to apply their learning in the real world. Many employers look for this experience in their employees.
 
 Some experiential learning opportunities include:
 + Co-op programs
