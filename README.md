@@ -1,6 +1,6 @@
 # **Careers in Computer Science | Software Developer** 
 ![image](software%20engineer.jpg)
-<img src="software engineer.jpg" width="550">
+<img src="software engineer.jpg" width="1000">
 #### *Brian Huang*
 
 ## **What is a software developer?**
