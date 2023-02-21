@@ -3,7 +3,7 @@
 #### *Brian Huang*
 
 ## **What is a software developer?**
-Software developers design, write, and test code for new systems and software to ensure efficiency. They create the foundations for operative systems and run diagnostic programs to certify effectiveness. They are employed in computer software, computer and video game development firms, information technology consulting firms, and in information technology units throughout both private and public sectors.
+Software developers design, write, and test code for new systems and software to ensure efficiency. They create the foundations for operative systems and run diagnostic programs to certify effectiveness. They are employed in computer software, computer and video game development firms, information technology consulting firms, and in information technology units throughout both private and public sectors. Their salaries can range from around $50,000 to $125,000.
 
 ### **Typical Responsibilities**
 + Design, write, read, test, and correct code for new software
@@ -14,7 +14,7 @@ Software developers design, write, and test code for new systems and software to
 + Develop, implement, modify and maintain gameplay features that integrate effectively into existing software
 + Write documentation for new and updated software.
 
-### **Required Skills (technical and non-technical)**
+### **Required Skills (technical)**
 + Mathematical aptitude
 + Problem-solving skills
 + Programming languages (different types of developer roles require different languages)
@@ -23,6 +23,7 @@ Software developers design, write, and test code for new systems and software to
 + Understanding of the latest trends and their role in a commercial environment
 + Communication and leadership skills
 + Analytical and critical thinking skills
+
 
 ## **Education**
 Most software developer positions require at least a Bachelor's degree in computer science, software development or similar, but there are other routes to becoming a software developer through demonstrating enthusiasm and the capacity to learn new skills. Employers are sometimes willing to train younger employees.
@@ -110,7 +111,7 @@ Alternating school and co-op terms allows students to explore multiple career pa
 
 | | Entry Level | Mid Level | Senior Level |
 |-|-|-|-|
-| **Salary** | $45, 000| $75, 000 | $124, 800 |
+| **Salary** | $45,000| $75,000 | $124,800 |
 | **Industry Average Salary** | $50,440 | $89,440 | $124,800
 | **Position** | Programmer software engineer | Software engineer | Software engineer |
 | **Company** | Opticut Tech | Andec Mfg. Ltd. | Northern Block Inc |
@@ -119,12 +120,12 @@ Alternating school and co-op terms allows students to explore multiple career pa
 | **Additional Skills** | n/a| 3 years of professional experience in writing MS Visual C++, MFC and Windows API applications, good computer skills with MS Word, MS Excel, etc and a desire to travel internationally (typically U.S.A.) for short trips several times per year| 3 - 5 years of experience and specialization in system integration
 | **Job Listing** | [Ziprecruiter] | [Indeed] |[Jobbank Canada]|
 
+## **Works Cited**
+
+
 [University of Waterloo]: https://uwaterloo.ca/
 [Cheriton School of Computer Science]: https://cs.uwaterloo.ca/
-
 [Ziprecruiter]: https://www.ziprecruiter.com/c/Opticut-Tech/Job/Programmer-Software-Engineer/-in-Napanee,ON?closed_job_redirect=1&jid=98f4178ad5a002bf
-
 [Indeed]: https://ca.indeed.com/viewjob?jk=42c36958df7a2988&cajb=cajb
-
 [Jobbank Canada]: https://www.jobbank.gc.ca/jobsearch/jobposting/37650903?source=searchresults
 
