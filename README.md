@@ -59,7 +59,7 @@ Most software developer positions require at least a Bachelor's degree in comput
 | One elective                                 | Two electives
 
 ### **Degree Requirements**
-+ 4 year program with 40 courses or 20 units
++ 4 - 5 year program with 40 courses or 20 units:
   + 7.75 CS units
   + 3.5 Math units
   + 5.0 Non-Math Elective Units
