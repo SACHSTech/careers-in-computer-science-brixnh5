@@ -123,7 +123,19 @@ Alternating school and co-op terms allows students to explore multiple career pa
 | **Job Listing** | [Ziprecruiter] | [Indeed] |[Jobbank Canada]|
 
 ## **Works Cited**
+“Computer Science.” Undergraduate Programs, University of Waterloo, 22 July 2022, https://uwaterloo.ca/future-students/programs/computer-science. Accessed 20 Feb. 2023.
 
+Gupta , Sakshi. “What Does a Software Engineer Do?” Springboard Blog, Springboard, 12 Jan. 2023, https://www.springboard.com/blog/software-engineering/software-engineer-job-description/. Accessed 20 Feb. 2023
+
+Kourmentza, Eleni. “Software Engineer Job Description.” Recruiting Resources: How to Recruit and Hire Better, Workable, 1 Feb. 2022, https://resources.workable.com/software-engineer-job-description. Accessed 20 Feb. 2023
+
+“Our People.” Cheriton School of Computer Science, University of Waterloo, 18 Mar. 2021, https://cs.uwaterloo.ca/our-people. Accessed 20 Feb. 2023
+
+“Preparing for Your Winter 2022 Work Term.” Co-Operative Education, University of Waterloo, 8 Feb. 2022, https://uwaterloo.ca/co-operative-education/preparing-your-winter-2022-work-term.  Accessed 20 Feb. 2023
+
+“Software Developer in Canada.” Job Bank, Government of Canada / Gouvernement Du Canada, 23 Jan. 2023, https://www.jobbank.gc.ca/marketreport/requirements/22548/ca. Accessed 20 Feb. 2023.
+
+Team Leverage Edu. “How to Become a Software Engineer?” Leverage Edu, Leverage Edu, 25 Mar. 2022, https://leverageedu.com/blog/how-to-become-a-software-engineer/. Accessed 20 Feb. 2023
 
 [University of Waterloo]: https://uwaterloo.ca/
 [Cheriton School of Computer Science]: https://cs.uwaterloo.ca/
