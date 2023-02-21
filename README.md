@@ -1,5 +1,4 @@
 # **Careers in Computer Science | Software Developer** 
-![image](software%20engineer.jpg)
 <img src="software engineer.jpg" width="1000">
 #### *Brian Huang*
 
@@ -32,7 +31,7 @@ Software developers design, write, and test code for new systems and software to
 Most software developer positions require at least a Bachelor's degree in computer science, software development or similar, but there are other routes to becoming a software developer through demonstrating enthusiasm and the capacity to learn new skills. Employers are sometimes willing to train younger employees.
 
 ### **Example University program** 
-![Alt text](davis-centre-1500_0.jpg)
+<img src="davis-centre-1500_0.jpg" width="1000">
 ## ***[Cheriton School of Computer Science] at the [University of Waterloo]***
 
 ### **Entrance Requirements (Ontario students)**
@@ -88,7 +87,7 @@ Some experiential learning opportunities include:
 
 At Waterloo, computer science students have access to a variety of co-op, studying abroad and undergraduate research opportunities. 
 
-![Alt text](coop.png)
+<img src="coop.png" width="1000">
 
 ### **Co-op Program Example**
 As a co-op student at Waterloo, students will normally alternate between four months in school and four months as a full-time employee of the organization they are working for.
