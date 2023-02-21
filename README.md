@@ -95,10 +95,10 @@ As a co-op student at Waterloo, students will normally alternate between four mo
 Alternating school and co-op terms allows students to explore multiple career paths and types of employers to suit their interests, as well as applying what they have learned in school
 
 ### **Getting hired**
-+ Review job postings from employers Waterloo has recruited and choose which ones students want to apply to.
-+ Employers select students to interview, based on résumés, work experience, and perhaps academic record.
-+ If you're selected for an interview, you'll meet with the employer in person or online.
-+ After the interview, you rank the employers and they rank interviewees based on preference.
+1. Review job postings from employers Waterloo has recruited and choose which ones students want to apply to.
+2. Employers select students to interview, based on résumés, work experience, and perhaps academic record.
+3. If you're selected for an interview, you'll meet with the employer in person or online.
+4. After the interview, you rank the employers and they rank interviewees based on preference.
 
 ### **Sample Co-op Job Titles**
 + Tools and automation engineering intern
